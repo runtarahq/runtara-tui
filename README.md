@@ -153,4 +153,4 @@ The TUI connects to `runtara-environment` via QUIC protocol using the `runtara-m
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details.
+AGPL v3 License - see [LICENSE](LICENSE) for details.
